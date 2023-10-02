@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\SingletonDatabase\Loging\bin\Debug\Loging.dll
+C:\Users\User\source\repos\SingletonDatabase\Loging\bin\Debug\Loging.pdb
+C:\Users\User\source\repos\SingletonDatabase\Loging\obj\Debug\Loging.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SingletonDatabase\Loging\obj\Debug\Loging.dll
+C:\Users\User\source\repos\SingletonDatabase\Loging\obj\Debug\Loging.pdb

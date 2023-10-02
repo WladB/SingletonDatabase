@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\SingletonDatabase\DatabaseManager\obj\Debug\DatabaseManager.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SingletonDatabase\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SingletonDatabase\DatabaseManager\bin\Debug\DatabaseManager.dll
+C:\Users\User\source\repos\SingletonDatabase\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\User\source\repos\SingletonDatabase\DatabaseManager\obj\Debug\DatabaseManager.dll
+C:\Users\User\source\repos\SingletonDatabase\DatabaseManager\obj\Debug\DatabaseManager.pdb
